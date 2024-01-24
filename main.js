@@ -22,3 +22,10 @@ const person = {
 // Accessing Object Methods
 objectName.methodName()
 name = person.fullName();
+
+const frontend = {
+  body:"HTML",
+  style:"CSS",
+  interaction:"JS",
+}
+console.log(frontend)
