@@ -28,4 +28,4 @@ const frontend = {
   style:"CSS",
   interaction:"JS",
 }
-console.log(frontend)
+console.log(frontend["body"])
